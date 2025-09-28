@@ -1,4 +1,3 @@
-# python-program
 # Python Programs
 
 A collection of basic Python programs and practice scripts to understand core concepts such as strings, loops, conditions, input handling, and simple use cases.
