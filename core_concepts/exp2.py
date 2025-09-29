@@ -1,0 +1,5 @@
+a=input("Enter the First String:")
+b=input("Enter the Second String:")
+c=input("which world has to be Replaced:")
+e=a.replace(b,c)
+print("The new replaced string is:",e)
