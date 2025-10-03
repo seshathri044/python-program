@@ -29,6 +29,15 @@ This repository contains the following files:
 - **UseCase/**  
   Directory containing small use case examples in Python.
 
+- **core_concepts/**
+Scripts that explain and demonstrate fundamental Python concepts in a structured way.
+
+- **filehandle/**
+Examples of file operations (read, write, append, etc.) with error handling and best practices.
+
+- **oops/**
+Object-Oriented Programming examples covering classes, objects, inheritance, polymorphism, and encapsulation.
+
 ---
 
 ## 🚀 Getting Started
