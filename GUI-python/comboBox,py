@@ -1,0 +1,32 @@
+import tkinter as tk
+from tkinter import ttk  # Combobox is part of ttk module
+
+def on_combobox_changes(event):
+    value = combobox.get()
+    print(f"Combobox value: {value}")
+
+
+root = tk.Tk()
+root.title("Spinbox & Combobox")
+root.grid_rowconfigure(0, weight=1)
+root.grid_rowconfigure(2, weight=1)
+root.grid_columnconfigure(0, weight=1)
+root.grid_columnconfigure(2, weight=1)
+
+label = tk.Label(root, text="Seshathri", fg="black")
+label.grid(row=0, column=1)
+
+
+# Combobox with predefined options
+combobox_values = ["Apple", "Banana", "Cherry", "Date", "Elderberry"]
+combobox = ttk.Combobox(root, values=combobox_values, width=10, font=("Helvetica", 24), state="readonly")
+combobox.grid(row=4, column=1, pady=10)
+combobox.set("Select a fruit")  # Default value
+
+# Bind event to handle change in combobox selection
+combobox.bind("<<ComboboxSelected>>", on_combobox_changes)
+
+
+
+
+root.mainloop()
