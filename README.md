@@ -17,24 +17,24 @@ Core Python Files
 ### 📁 Directories
 1. core_concepts/
 Structured scripts explaining fundamental Python concepts with clear examples and best practices.
-- 2.filehandle/
+2. filehandle/
 File operations including read, write, append, and error handling with practical examples.
 oops/
-- 3.Object-Oriented Programming demonstrations:
+3. Object-Oriented Programming demonstrations:
 
 - Classes and Objects
 - Inheritance
-- 4.recursion/
+4. recursion/
 Recursive algorithms and problem-solving techniques with step-by-step breakdowns.
-- 5.generator/
+5. generator/
 Generator functions, iterators, and memory-efficient data processing examples.
-- 6.decorators/
+6. decorators/
 Decorator patterns, function wrappers, and advanced Python metaprogramming.
-- 7.UseCase/
+7. UseCase/
 Real-world application examples and practical Python use cases.
-- 8.GUI-python/
+8. GUI-python/
 Graphical User Interface applications using Python GUI frameworks (Tkinter/PyQt).
-- 9.django/
+9. django/
 Full-stack web application built with Django framework including:
 
 - Models and Database Integration
@@ -42,7 +42,7 @@ Full-stack web application built with Django framework including:
 - Templates and Static Files
 - Admin Panel Configuration
 
-- 10.flask-web/
+10. flask-web/
 Lightweight web application using Flask framework:
 
 - RESTful API Development
