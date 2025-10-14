@@ -110,8 +110,8 @@ Contribute additional use cases.
 
 ### 📝 Recent Updates
 
-Django web application - Full-stack project added
-Flask web application - Lightweight web app included
-GUI programs - Interactive desktop applications
-Error handling module - Comprehensive exception management
-Advanced topics - Recursion, generators, regex, decorators
+- Django web application - Full-stack project added
+- Flask web application - Lightweight web app included
+- GUI programs - Interactive desktop applications
+- Error handling module - Comprehensive exception management
+- Advanced topics - Recursion, generators, regex, decorators
