@@ -15,7 +15,7 @@ Core Python Files
 - error_handle.py - Error handling, exceptions, and debugging practices
 
 ### 📁 Directories
-- 1.core_concepts/
+1. core_concepts/
 Structured scripts explaining fundamental Python concepts with clear examples and best practices.
 - 2.filehandle/
 File operations including read, write, append, and error handling with practical examples.
